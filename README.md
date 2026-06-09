@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Shay 👋
 
-<!--
-**slacy77/slacy77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Customer Success leader building hands-on AI experience during my career transition.
 
-Here are some ideas to get you started:
+I'm combining 10+ years of CS expertise with practical AI development — 
+learning by building real tools that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤖 Projects
+
+### Job Search Agent
+An autonomous AI agent that searches Google Jobs daily, scores job postings 
+against my resume using Claude, and logs strong matches to Google Sheets — 
+fully automated via GitHub Actions.
+
+**Tech:** Python · Anthropic Claude API · SerpAPI · BeautifulSoup · 
+GitHub Actions · Google Sheets API
+
+[View project →](link to your public overview repo once created)
+
+---
+
+## 🛠️ Skills
+AI Agent Development · Prompt Engineering · AI-Assisted Python Development · 
+Workflow Automation · End-to-End System Design
+
+---
+
+## 📫 Connect
+[LinkedIn](your linkedin URL here)
