@@ -14,7 +14,7 @@ An autonomous AI agent that searches Google Jobs daily, scores job postings
 against my resume using Claude, and logs strong matches to Google Sheets — 
 fully automated via GitHub Actions.
 
-**Tech:** Python · Anthropic Claude API · SerpAPI · BeautifulSoup · 
+**Tech:** AI Assisted Python Development · Anthropic Claude API · SerpAPI · BeautifulSoup · 
 GitHub Actions · Google Sheets API
 
 [View project →](link to your public overview repo once created)
