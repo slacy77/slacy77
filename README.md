@@ -17,7 +17,7 @@ fully automated via GitHub Actions.
 **Tech:** AI Assisted Python Development · Anthropic Claude API · SerpAPI · BeautifulSoup · 
 GitHub Actions · Google Sheets API
 
-[View project →](link to your public overview repo once created)
+[View project →](https://github.com/slacy77/job-search-agent-overview/tree/main)
 
 ---
 
