@@ -1,4 +1,4 @@
-# Hi, I'm Shay 👋
+# Hi, I'm Shannon 👋
 
 Customer Success leader building hands-on AI experience during my career transition.
 
@@ -28,4 +28,4 @@ Workflow Automation · End-to-End System Design
 ---
 
 ## 📫 Connect
-[LinkedIn](your linkedin URL here)
+[LinkedIn](https://www.linkedin.com/in/shannonlacy/)
