@@ -22,7 +22,7 @@ I built an AI agent to help with my own job search. It autonomously finds releva
 **Why I built it this way:**
 I wanted to understand AI agents from the inside — not just use them. Building something that solves a real problem I actually have (job searching while on parental leave with two kids) meant I had genuine stakes in whether it worked. The cover letter and resume rewriter don't fabricate anything — they help me tell my real story in the language each specific role responds to.
 
-→ [View the repo]([https://github.com/slacy77/job-search-agent](https://github.com/slacy77/job-search-agent-overview/tree/main))
+→ [View the repo](https://github.com/slacy77/job-search-agent-overview/tree/main)
 
 ---
 
